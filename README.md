@@ -36,12 +36,11 @@ const k = {
 };
 ```
 
-- :computer: My main languages are : [Java](https://www.oracle.com/in/java/technologies/javase-downloads.html),[Python](https://www.python.org)
+- :computer: My main languages are : [Python](https://www.python.org)
 - :school: I'm currently learning : [Kotlin](https://kotlinlang.org),  [Node.js](https://nodejs.org/en/)
 
 ## Where To Find Me -
-
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jdotorg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyllkei) [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jdotorg)
 
 ## Skills -
 
