@@ -23,7 +23,7 @@ const k = {
         },
         frontEnd: {
             js: ["React"],
-            css: ["bootstrap"]
+            css: ["tailwind"]
         },
         mobileApp: {
             java: ["Android Development"]
