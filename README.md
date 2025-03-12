@@ -22,13 +22,14 @@ const k = {
             py: ["Django"],
         },
         frontEnd: {
-            js: ["React"],
+            js: ["Next JS"],
             css: ["tailwind"]
         },
         mobileApp: {
             java: ["Android Development"]
         },
-        databases: ["MySql"],
+        databases: ["MySql", "Postgres SQL"],
+        ai: ["Claude", "V0", "Cursor", "Gemini"],
     },
     architecture: ["Progressive web applications"],
     currentFocus: "Development, Skills Boosting, Fun & Pain",
@@ -36,12 +37,15 @@ const k = {
 };
 ```
 
-- :computer: My main languages are : [Python](https://www.python.org)
+- :computer: My main languages are : [Python](https://www.python.org), [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - :school: I'm currently learning : [Kotlin](https://kotlinlang.org),  [Node.js](https://nodejs.org/en/)
 
 ## Where To Find Me -
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyllkei) [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jdotorg)
 
+## AI Tools -
+
+<img src="https://pbs.twimg.com/media/GfP_-FpWYAAIw6R?format=jpg&name=medium" alt="Image Description" width="100">   <img src="https://freeappsai.com/wp-content/uploads/2024/04/Cursor-1.png" alt="Cursor AI Logo" width="85" height="46">
 ## Skills -
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -51,6 +55,7 @@ const k = {
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## OS & Tools -
 
