@@ -9,7 +9,7 @@
 
 # 👾 K's Digital Playground
 
-> From ideas to code: Building the digital frontier with a passion for clean UIs and powerful backends
+> From ideas to code: Jarvis? Yes we living in world where AI is gonna make our development easier and way better.
 
 ## 📊 Tech Radar
 
