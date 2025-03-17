@@ -23,14 +23,14 @@ class Developer:
             "frontend": {
                 "framework": "Next.js",
                 "styling": "Tailwind CSS",
-                "ui_libraries": ["Hyper UI", "Unfold Admin"]
+                "tools": "V0 by Vercel",
             },
             "backend": {
                 "framework": "Django",
                 "api": "Django REST Framework"
             },
             "database": ["MySQL", "PostgreSQL"],
-            "tools": ["VS Code", "Cursor AI", "Claude"]
+            "tools": ["VS Code", "Cursor AI", "Claude", "V0"]
         }
     
     def daily_routine(self):
@@ -96,26 +96,32 @@ print(f"Hello World, I'm K!")
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 </div>
 
-## 🤖 AI Workflow
+## 🤖 AI & Developer Tools
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Claude-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
         <p>Brainstorming & Research</p>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Cursor_AI-00A0E4?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
         <p>Code Assistance & Generation</p>
       </td>
-      <td align="center">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
         <p>Content & Documentation</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/V0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0 by Vercel"/>
+        <p>UI Generation & Prototyping</p>
       </td>
     </tr>
   </table>
 </div>
+
+
 
 ## 📈 Project Metrics
 
@@ -140,6 +146,21 @@ print(f"Hello World, I'm K!")
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
         <p>Designing efficient database schemas and API structures</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Advanced AI Integration</h3>
+        <img src="https://img.shields.io/badge/V0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0 by Vercel"/>
+        <img src="https://img.shields.io/badge/Cursor_AI-00A0E4?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
+        <img src="https://img.shields.io/badge/AI_Development-FF5A5F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Development"/>
+        <p>Harnessing AI tools to enhance development workflow and create intelligent applications</p>
+      </td>
+      <td>
+        <h3>Full-Stack Excellence</h3>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+        <p>Perfecting the integration between Django backends and Next.js frontends</p>
       </td>
     </tr>
   </table>
@@ -169,3 +190,4 @@ print(f"Hello World, I'm K!")
   <span id="terminal-text"></span><span class="blinking">_</span>
   </code>
   </pre>
+
