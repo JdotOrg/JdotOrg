@@ -136,7 +136,7 @@ print(f"Hello World, I'm K!")
   <table>
     <tr>
       <td>
-        <h3>React & Next.js Mastery</h3>
+        <h3>React & Next.js</h3>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
         <p>Building advanced web applications with modern React patterns</p>
