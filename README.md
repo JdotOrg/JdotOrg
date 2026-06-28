@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo3aWVtb2hybnZ2YzdwOWo4azVmY3plcjl2NXBycnp6d3Z5c3VhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif" alt="Code Animation" width="500"/>
  <br>
-
-  <a href="https://discord.com/users/1071939662664433694">
-    <img src="https://lanyard.cnrad.dev/api/1071939662664433694?theme=dark&animated=true" alt="Discord Status"/>
-  </a>
 </div>
 
 # 👾 K's Digital Playground
@@ -17,7 +13,7 @@
 class Developer:
     def __init__(self):
         self.name = "K"
-        self.role = "Student Developer"
+        self.role = "SWE"
         self.languages = ["Python", "JavaScript", "Java", "HTML", "CSS"]
         self.stack = {
             "frontend": {
